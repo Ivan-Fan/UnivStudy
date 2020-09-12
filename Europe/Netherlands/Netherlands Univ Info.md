@@ -4,7 +4,7 @@
 >
 > CS Ranking (CV): Europe TOP 35
 
-![tud](img\tud.jpg)
+![tud](img/tud.jpg)
 
 ## 申请要求 & 项目信息
 

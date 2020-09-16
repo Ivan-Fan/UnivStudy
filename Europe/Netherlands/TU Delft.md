@@ -1,8 +1,8 @@
-# 代尔夫特理工大学 TU Delft
+# 代尔夫特理工大学	TU Delft
 
-> QS 综排：TOP 50	|	QS EE学科：TOP 16
+> QS 综排：TOP 50	|	QS EE学科：TOP 16	|	QS CS学科：TOP 51+
 >
-> CS Ranking (CV): Europe TOP 35
+> CS Ranking (CV): Europe TOP 35	|	CS Ranking (CV): World TOP 136
 
 ![tud](img/tud.jpg)
 

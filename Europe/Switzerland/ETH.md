@@ -4,7 +4,7 @@
 >
 > CS Ranking (CV): Europe **TOP 2**	|	CS Ranking (CV): World **TOP 11**
 
-![](img\eth.jpg)
+![](img/eth.jpg)
 
 ## 申请要求 & 项目信息
 

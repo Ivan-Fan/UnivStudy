@@ -4,7 +4,7 @@
 >
 > CS Ranking (CV): Europe **TOP 49**	|	CS Ranking (CV): World **TOP 171**
 
-![Aalto](img\aalto.jpg)
+![Aalto](img/aalto.jpg)
 
 ## 申请要求 & 项目信息
 

@@ -4,7 +4,7 @@
 >
 > CS Ranking (CV): Europe **TOP 4**	|	CS Ranking (CV): World **TOP 17**
 
-![EPFL](img\epfl2.jpg)
+![EPFL](img/epfl2.jpg)
 
 ## 申请要求 & 项目信息
 

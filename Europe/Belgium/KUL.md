@@ -4,7 +4,7 @@
 >
 > CS Ranking (CV): Europe **TOP 102**	|	CS Ranking (CV): World **TOP 295**
 
-![KUL](img\kul.jpg)
+![KUL](img/kul.jpg)
 
 ## 申请要求 & 项目信息
 

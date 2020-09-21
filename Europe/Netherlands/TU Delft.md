@@ -1,8 +1,8 @@
 # 代尔夫特理工大学	TU Delft
 
-> QS 综排：TOP 50	|	QS EE学科：TOP 16	|	QS CS学科：TOP 51+
+> QS 综排：**TOP 50**	|	QS EE学科：**TOP 16**	|	QS CS学科：**TOP 51+**
 >
-> CS Ranking (CV): Europe TOP 35	|	CS Ranking (CV): World TOP 136
+> CS Ranking (CV): Europe **TOP 35**	|	CS Ranking (CV): World **TOP 136**
 
 ![tud](img/tud.jpg)
 
@@ -42,3 +42,4 @@
 
 1. 费用比较低；课程设置挺丰富，有个毕业设计项目，据说可以去有意向读博的教授组里做。
 2. 欧洲读博那TU Delft完全ok，本身硕士项目设置比纯course-based要利于research
+3. 可以考虑这几个CV方向的教授：Koenderink, Reinders, Dibeklioglu, Van Gemert
